@@ -48,6 +48,8 @@ Run tests:
 ```bash
 pytest ../tests/
 ```
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/d4eec409-f475-434a-9825-ec2e685f5be9" />
+
 
 Build & run with Docker:
 ```bash
